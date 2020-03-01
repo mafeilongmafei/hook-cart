@@ -2,7 +2,6 @@ import React  from 'react';
 import { Switch , Route , Redirect } from "react-router-dom";
 import mainRouter  from "./router"
 
-
 function App() {
   return (
    <Switch>

@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hook-cart/build/static/css/main.f19c2ef8.chunk.css",
+    "main.js": "/hook-cart/build/static/js/main.03c209be.chunk.js",
+    "main.js.map": "/hook-cart/build/static/js/main.03c209be.chunk.js.map",
+    "runtime-main.js": "/hook-cart/build/static/js/runtime-main.a675ef6b.js",
+    "runtime-main.js.map": "/hook-cart/build/static/js/runtime-main.a675ef6b.js.map",
+    "static/css/2.c35655eb.chunk.css": "/hook-cart/build/static/css/2.c35655eb.chunk.css",
+    "static/js/2.4b0ea75d.chunk.js": "/hook-cart/build/static/js/2.4b0ea75d.chunk.js",
+    "static/js/2.4b0ea75d.chunk.js.map": "/hook-cart/build/static/js/2.4b0ea75d.chunk.js.map",
+    "index.html": "/hook-cart/build/index.html",
+    "precache-manifest.40916e2928d36fb3dfba9a8cbbaa7e1c.js": "/hook-cart/build/precache-manifest.40916e2928d36fb3dfba9a8cbbaa7e1c.js",
+    "service-worker.js": "/hook-cart/build/service-worker.js",
+    "static/css/2.c35655eb.chunk.css.map": "/hook-cart/build/static/css/2.c35655eb.chunk.css.map",
+    "static/css/main.f19c2ef8.chunk.css.map": "/hook-cart/build/static/css/main.f19c2ef8.chunk.css.map",
+    "static/js/2.4b0ea75d.chunk.js.LICENSE.txt": "/hook-cart/build/static/js/2.4b0ea75d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a675ef6b.js",
+    "static/css/2.c35655eb.chunk.css",
+    "static/js/2.4b0ea75d.chunk.js",
+    "static/css/main.f19c2ef8.chunk.css",
+    "static/js/main.03c209be.chunk.js"
+  ]
+}
