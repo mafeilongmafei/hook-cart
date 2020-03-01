@@ -1,0 +1,29 @@
+.pa {
+    margin-top: 20px;
+}
+.pa > ul > li {
+    width: 204px;
+    float: left;
+    background-color: #fff;
+}
+.pa > ul > li:nth-child(2n) {
+   margin-left: 6px; 
+}
+.pa > ul > li > img  {
+    width: 204px;
+    height: 202px;
+}
+
+.pa > ul > li > p {
+    height: 33px;
+    line-height: 33px;
+    text-align: center;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+.shopPrice {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
