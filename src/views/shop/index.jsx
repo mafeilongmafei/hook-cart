@@ -13,7 +13,7 @@ export default function shop(props) {
 
   const addCart = function (e) {
     let id = e.currentTarget.dataset.id - 0;
-    
+    console.log(e.currentTarget);
     data.forEach(item=>{
       if(item.id == id) {
         pushData(item)
