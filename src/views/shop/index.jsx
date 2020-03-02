@@ -12,13 +12,14 @@ export default function shop(props) {
 
 
   const addCart = function (e) {
-    let id = e.target.dataset.id - 0
+    let id = e.currentTarget.dataset.id - 0;
     
     data.forEach(item=>{
       if(item.id === id) {
         pushData(item)
       }
     })
+
 
   }
   const navto = () => {
