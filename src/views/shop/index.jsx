@@ -15,7 +15,7 @@ export default function shop(props) {
     let id = e.currentTarget.dataset.id - 0;
     
     data.forEach(item=>{
-      if(item.id === id) {
+      if(item.id == id) {
         pushData(item)
       }
     })
