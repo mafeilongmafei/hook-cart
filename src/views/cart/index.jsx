@@ -84,6 +84,7 @@ const countPrice = () =>{
   };
 //修改购买数量
   const setStepper = (num ) =>{
+    
     shopCount = num
     isChange = true
   }
@@ -103,7 +104,7 @@ const edit = (e)=>{
       <ul>
         {data.map(item => {
           return (
-            <li className="clearFix cart" key={item.id}>
+            <li className="cart" key={item.id}>
               <div className="radio">
                 <Radio
                   checked={item.select}

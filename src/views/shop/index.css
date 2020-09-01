@@ -1,17 +1,20 @@
 .pa {
     margin-top: 20px;
 }
+ ul {
+     width: 100%;
+     display: flex;
+     flex-wrap: wrap;
+ }
 .pa > ul > li {
-    width: 204px;
-    float: left;
+    width: 47%;
     background-color: #fff;
 }
 .pa > ul > li:nth-child(2n) {
    margin-left: 6px; 
 }
 .pa > ul > li > img  {
-    width: 204px;
-    height: 202px;
+    width: 100%;
 }
 
 .pa > ul > li > p {
